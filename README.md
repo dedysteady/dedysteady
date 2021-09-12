@@ -2,7 +2,6 @@
 
 - Interested in Augmented Reality, Web Design, UI/UX, Game Programming
 - Currently learning C#, blender and unity.
-- Looking to collaborate with other for a Project to increase my skills.
 
 ### Connect with me :
 
