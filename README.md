@@ -1,4 +1,4 @@
-### Hello 👋, My name is Dedy Setiadi :)
+### Hello, My name is Dedy Setiadi :)
 
 - 👀 Interested in Augmented Reality, Web Design, UI/UX, Game Programming
 - 📖 Currently learning Blender, Unity, and Augmented Reality at Agate Academy and KMMI Program from Kampus Merdeka
