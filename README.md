@@ -11,8 +11,8 @@
 - 📖 Bangkit 2021 - Cloud Computing graduate (Kampus Merdeka Program Collaboration With Google, Tokopedia, Gojek, Traveloka)
 - 📫 How to reach me? Just Clik this <a href="https://dedysteady.my.id">dedysteady.my.id</a>
 
-![Twitter](https://img.shields.io/twitter/follow/dedysteady?style=social) </br>
-![Youtube Gaming](https://img.shields.io/youtube/channel/views/UCVPtseQSVyN-O8MKZGYJ9ZA?label=Dedysteady%20Channel%20Views&style=social) </br>
+![Twitter](https://img.shields.io/twitter/follow/dedysteady?style=social)
+![Youtube Gaming](https://img.shields.io/youtube/channel/views/UCVPtseQSVyN-O8MKZGYJ9ZA?label=Dedysteady%20Channel%20Views&style=social)
 ![Youtube Gaming](https://img.shields.io/youtube/channel/views/UCxHRy6PJEkAVjdmEhOmpEGw?label=Little%20D%20Gaming%20Views&style=social)
 
 
