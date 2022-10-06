@@ -3,6 +3,7 @@
 ![Twitter](https://img.shields.io/twitter/follow/dedysteady?style=social)
 ![Youtube Gaming](https://img.shields.io/youtube/channel/views/UCVPtseQSVyN-O8MKZGYJ9ZA?label=Dedysteady%20Channel%20Views&style=social)
 ![Youtube Gaming](https://img.shields.io/youtube/channel/views/UCxHRy6PJEkAVjdmEhOmpEGw?label=Little%20D%20Gaming%20Views&style=social)
+<img src="http://views.whatilearened.today/views/github/dedysteady/views.svg"/>
 
 - 👀 Interested in Augmented Reality and Game Development
 - 📖 Learning C# and Unity at Agate Academy (Independent Study from Kampus Merdeka)
